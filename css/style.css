@@ -1,0 +1,130 @@
+@charset "utf-8";
+
+body {
+	color:rgba(51,51,51,1);
+	/*background:rgba(248,248,248,1);*/
+	background:rgba(221,161,89,1);
+	/*background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#53346D), to(#333333)); */
+	/* Webkit:Safari 5.1+, Chrome 10+ */ 
+	/*background:-webkit-linear-gradient(top, #53346D, #333333); */
+	/* Firefox 3.6+ */ 
+	/*background:-moz-linear-gradient(top, #53346D, #333333); */
+	/* Opera 11.10+ */ 
+	/*background:-o-linear-gradient(top, #53346D, #333333); */
+	/* IE 10 */ 
+	/*background:-ms-linear-gradient(top, #53346D, #333333); */
+	}
+.btn-default {
+	background:none;
+	border-radius:0;
+	}
+.form-control {
+	background:none;
+	border-radius:0;
+	}
+ol, ul ,li {
+	list-style:none;
+	}
+a:link {
+	color:rgba(51,51,51,1);
+	text-decoration:none;
+	text-align:center;
+	background:rgba(231,231,231,1);
+	}
+a:visited {
+	color:rgba(51,51,51,1);
+	text-decoration:none;
+	text-align:center;
+	background:rgba(231,231,231,1);
+	}
+a:hover {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	background:rgba(51,51,51,1);
+	text-decoration:none;
+	text-align:center;
+	}
+a:active {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	background:rgba(51,51,51,1);
+	text-decoration:none;
+	text-align:center;
+	}
+.navbar {
+	background:rgba(51,51,51,1);
+	border-bottom:none;
+	}
+.navbar form {
+	padding:10px 0;
+	}
+.navbar form input {
+	color:rgba(255,255,255,1);
+	height:40px;
+	}
+.navbar form button {
+	color:rgba(255,255,255,1);
+	height:40px;
+	}
+.website-list {
+	padding:60px 0 0 0;
+	}
+.website-list .container{
+	margin:20px auto;
+	}
+.website-list h4 {
+	display:inline-block;
+	padding:0;
+	margin:0;
+	font-size:14px;
+	font-weight:700;
+	}
+.website-list .col-xs-12 {
+	padding:0;
+	margin:0;
+	border:1px solid rgba(231,231,231,1);
+	}
+.website-list .col-xs-12:hover {
+	border:1px solid rgba(51,51,51,1);
+	}
+.website-list ul {
+	padding:0;
+	margin:0;
+	}
+.website-list li {
+	padding:5px;
+	margin:0;
+	float:left;
+	}
+.website-list li a {
+	padding:5px 10px;
+	margin:0;
+	display:inline-block;
+	line-height:30px;
+	}
+.website-list img {
+	display:inline-block;
+	}
+#footer {
+	background:rgba(51,51,51,1);
+	padding:20px 0;
+	text-align:center;
+	color:rgba(255,255,255,1);
+	}
+#footer a:link {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	background:none;
+	}
+#footer a:visited {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	}
+#footer a:hover {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	}
+#footer a:active {
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	}
